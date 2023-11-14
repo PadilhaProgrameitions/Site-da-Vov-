@@ -1,0 +1,50 @@
+*{margin: 0; padding: 0;}
+#texto{
+    padding: 30px;
+    margin: 50px;
+}
+header{
+    background-color: rgb(255, 192, 216);
+    text-align: center;
+    height: 150px;
+
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    text-align: right;
+    color: black;
+    
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+#fotovovo > img{
+    width: 100px;
+    padding: 10px;
+}
+#bolo01{
+    width: 672px;
+}
+#bolo02{
+    width: 673px;
+    height: 476px;
+}
+
+#textovovo{
+    display: inline-block;
+}
+#fotovovo{
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    background-color: #ffd2e3;
+    color: black;
+    padding: 30px;
+}
+#rec{
+    text-align: center;
+    color: rgb(255, 192, 216);
+}

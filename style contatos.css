@@ -1,0 +1,34 @@
+*{margin: 0; padding: 0;}
+header{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.486) ;
+}
+.cont{
+    height: 250px;
+    width: 400px;
+    background-color: #ffd2e3;
+    color: white;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 600px;
+    border-radius: 70px;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.521) ;
+}
+footer{
+    background-color: rgb(255, 192, 216);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+#c{
+    padding: 20px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+#imgzap{
+    width: 30px;
+}
+#imginsta{
+    width: 30px;
+}
